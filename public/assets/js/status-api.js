@@ -1,4 +1,4 @@
-const url = 'https://status.logicworld.ru/api'
+const url = ''//put your url here
 
 async function refresh_status() {
     const container = document.getElementById('status-container');
